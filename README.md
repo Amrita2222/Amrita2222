@@ -88,7 +88,7 @@ I thrive on turning complex problems into simple, beautiful, and intuitive desig
   <a href="https://www.linkedin.com/in/rita2222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rita.kumari@example.com">
+  <a href="mailto:amrita.spj2222@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/RitaCoder">
