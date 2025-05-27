@@ -7,8 +7,8 @@ Hi, I'm **Rita Kumari**, a passionate and detail-oriented **Fullstack Developer*
 I specialize in building robust and scalable applications using:
 
 - **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- **Backend Development** (Java, C++)
-- **Problem Solving** (Data Structures & Algorithms in C++/Java)
+- **Backend Development** (C++)
+- **Problem Solving** (Data Structures & Algorithms in C++)
 
 I thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
@@ -16,7 +16,7 @@ I thrive on turning complex problems into simple, beautiful, and intuitive desig
 
 #### Total Profile visit: 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amrita2222&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Amrita2222&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
@@ -34,7 +34,6 @@ I thrive on turning complex problems into simple, beautiful, and intuitive desig
 ### Languages
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
@@ -63,11 +62,11 @@ I thrive on turning complex problems into simple, beautiful, and intuitive desig
 ### [🛒 E-Commerce MERN App](https://github.com/Amrita2222/E-Commerce-MERN)
 - Fullstack e-commerce platform
 - Secure JWT authentication
-- Payment Gateway Integration
+
 
 ### [📚 DSA Solutions](https://github.com/Amrita2222/DSA-Solutions)
-- 200+ LeetCode problems solved
-- Optimized C++/Java algorithms
+- 100+ LeetCode problems solved
+- Optimized C++
 
 ## 📫 Connect With Me
 
