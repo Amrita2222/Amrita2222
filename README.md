@@ -1,4 +1,4 @@
-#  Rita Kumari | Fullstack Developer
+#  Rita Kumari | FrontEnd Developer
 
 ---
 
